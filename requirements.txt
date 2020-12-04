@@ -1,0 +1,10 @@
+numpy
+torch
+pyyaml
+tensorboardX
+torchvision
+tqdm
+matplotlib
+opencv-python
+webcolors
+
